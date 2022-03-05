@@ -3,7 +3,6 @@
 ## Stack:
 - ReactJS
 - NPM
-- Vercel
 
 ## Available Scripts
 
@@ -19,12 +18,3 @@ npm start
 npm test
 ```
 
-### Build the app for production:
-```code
-npm run build
-```
-
-### Deployment
-```code
-
-```
